@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Literata:ital@1&display=swap');
+
+section {
+    background-color: rgb(231, 193, 146);
+}
+
+#page_title {
+    display: inline;
+    color: white;
+    font-family: 'Literata', serif;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+nav {
+    display: inline;
+    float: right;
+}
+
+
+a {
+    text-decoration: none;
+    color: white;
+    font-family: 'Literata', serif;
+    padding: 20px;
+    font-size: 15px;
+}
+
+#active {
+    background-color: rgb(226, 171, 104);
+}
